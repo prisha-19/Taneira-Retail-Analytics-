@@ -35,10 +35,9 @@ During my first-year internship at Titan Company Ltd (Taneira), I analyzed retai
 
 ### Excel Dashboard — Sales, Discounts & Inventory
 
-![Sales Analysis](images/Sales%20Analysis.png)
-![Inventory Status](images/Inventory%20Status.png)
-![Product Specifications](images/Product%20Specifications.png)
-
+![Sales Analysis](Sales%20Analysis.png)
+![Inventory Status](Inventory%20Status.png)
+![Product Specifications](Product%20Specifications.png)
 
 ### Power BI Dashboard — Sales, Returns & Product Intelligence
 - Return rate of 25% — flagged as high, most returns lack a specified reason
@@ -49,10 +48,10 @@ During my first-year internship at Titan Company Ltd (Taneira), I analyzed retai
 
 ### Power BI Dashboard — Sales, Returns & Product Intelligence
 
-![Sales and Returns Dashboard](images/Sales%20and%20Returns%20Dashboard.png)
-![Product Intelligence Report](images/Product%20Intelligence%20Report.png)
-![Inventory Health Status](images/Inventory%20Health%20Status.png)
-![Product Status 2026](images/Product%20Status%202026.png)
+![Sales and Returns Dashboard](Sales%20and%20Returns%20Dashboard.png)
+![Product Intelligence Report](Product%20Intelligence%20Report.png)
+![Inventory Health Status](Inventory%20Health%20Status.png)
+![Product Status 2026](Product%20Status%202026.png)
 
 
 ## Key Findings
