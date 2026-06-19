@@ -27,18 +27,6 @@ During my first-year internship at Titan Company Ltd (Taneira), I analyzed retai
 
 ## Dashboards
 
-### Excel Dashboard — Sales, Discounts & Inventory
-- Saree contributes ₹2.44 Cr (67% of total revenue)
-- WCS channel drove 86% of total discounts; average discount 15%
-- Lehenga is the fastest-moving product category
-- Average inventory per product: ~3 units
-
-### Excel Dashboard — Sales, Discounts & Inventory
-
-![Sales Analysis](Sales%20Analysis.png)
-![Inventory Status](Inventory%20Status.png)
-![Product Specifications](Product%20Specifications.png)
-
 ### Power BI Dashboard — Sales, Returns & Product Intelligence
 - Return rate of 25% — flagged as high, most returns lack a specified reason
 - Highest returns via Myntra (978/1911); Cash on Delivery is the top payment method
@@ -52,6 +40,19 @@ During my first-year internship at Titan Company Ltd (Taneira), I analyzed retai
 ![Product Intelligence Report](Product%20Intelligence%20Report.png)
 ![Inventory Health Status](Inventory%20Health%20Status.png)
 ![Product Status 2026](Product%20Status%202026.png)
+
+
+### Excel Dashboard — Sales, Discounts & Inventory
+- Saree contributes ₹2.44 Cr (67% of total revenue)
+- WCS channel drove 86% of total discounts; average discount 15%
+- Lehenga is the fastest-moving product category
+- Average inventory per product: ~3 units
+
+### Excel Dashboard — Sales, Discounts & Inventory
+
+![Sales Analysis](Sales%20Analysis.png)
+![Inventory Status](Inventory%20Status.png)
+![Product Specifications](Product%20Specifications.png)
 
 
 ## Key Findings
