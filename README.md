@@ -33,6 +33,12 @@ During my first-year internship at Titan Company Ltd (Taneira), I analyzed retai
 - Lehenga is the fastest-moving product category
 - Average inventory per product: ~3 units
 
+### Excel Dashboard — Sales, Discounts & Inventory
+
+![Sales Analysis](images/Sales%20Analysis.png)
+![Inventory Status](images/Inventory%20Status.png)
+![Product Specifications](images/Product%20Specifications.png)
+
 
 ### Power BI Dashboard — Sales, Returns & Product Intelligence
 - Return rate of 25% — flagged as high, most returns lack a specified reason
@@ -40,6 +46,13 @@ During my first-year internship at Titan Company Ltd (Taneira), I analyzed retai
 - Only ~18% of total Parent SKUs are currently live
 - 70 SKUs are out of stock despite 474 total units purchased — none currently live
 - 428 new SKUs arrived this season (Jan–May)
+
+### Power BI Dashboard — Sales, Returns & Product Intelligence
+
+![Sales and Returns Dashboard](images/Sales%20and%20Returns%20Dashboard.png)
+![Product Intelligence Report](images/Product%20Intelligence%20Report.png)
+![Inventory Health Status](images/Inventory%20Health%20Status.png)
+![Product Status 2026](images/Product%20Status%202026.png)
 
 
 ## Key Findings
