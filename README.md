@@ -1,4 +1,3 @@
-[README_draft.md](https://github.com/user-attachments/files/29130743/README_draft.md)
 # Retail Analytics & Inventory Dashboard — Taneira (Titan Company Ltd)
 
 Sales, returns, product intelligence, and inventory health analytics built in Excel and Power BI, using real retail business data from Taneira.
